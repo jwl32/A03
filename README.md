@@ -23,3 +23,5 @@ Glossary:
 - **Pull** - Pulling is the act of getting a commit from a remote repository to a local repository. 
 - **Remote** - The version of a local repository that is hosted on a server. 
 - **Repository** - A workspace that holds a project's files. Repositories are the foundation upon which git is able to sync changes among local and remote versions of a project. 
+
+Source: https://docs.github.com/en/get-started/quickstart/github-glossary
